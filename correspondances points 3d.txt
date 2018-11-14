@@ -1,0 +1,23 @@
+hauteur min Z=-6.05			Y=1
+hauteur max Z=-5.85			Y=4
+
+droite max X=0.76			X=6
+gauche max X=1.03			X=-6
+
+fond max Y=2.08				Z=7
+front max Y=1.92			Z=-3
+
+
+
+
+
+V2:
+
+droite max X=170			X=6
+gauche max X=-170			X=-6
+
+hauteur min Y=125			Y=1
+hauteur max Y=225			Y=4
+
+fond max Z=-90				Z=7
+front max Z=120				Z=-3
